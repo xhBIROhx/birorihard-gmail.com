@@ -1,17 +1,3 @@
-/**
- * @name xhBIROhx
- * @author NFLD99
- * @version ersion auto updates
- * @description Thank you for choosing NFLD Inc!
- * @source https://github.com/NFLD99/Better-Discord
- * @website https://nfld99.com/
- * @patreon https://nfld99.com/patreon
- * @authorLink https://discordhub.com/profile/483413721876529174
- * @donate https://nfld99.com/paypal
- * @authorId 483413721876529174
- * @invite kWRYPrq
-*/
-
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Animations/No.css);
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/No.css);
@@ -101,9 +87,9 @@
 	--Chat-Background: Transparent;
 	--Settings-Background: Transparent;
 	--Callout-Background: ;
-	--Title-Background: url(https://cdn.discordapp.com/attachments/671078928625958958/692799321506316358/dc6.jpg);
-	--Popout-Background: url(https://cdn.discordapp.com/attachments/671078928625958958/692799328489832588/dc.gif);
-	--Emote-Popout-Background: url(https://cdn.discordapp.com/attachments/671078928625958958/692799328489832588/dc.gif);
+	--Title-Background: url(https://cdn.discordapp.com/attachments/622455779340845056/693794058778443836/diemond.png);
+	--Popout-Background: url(https://cdn.discordapp.com/attachments/622455779340845056/693794059390681108/diemond2.png);
+	--Emote-Popout-Background: url(https://cdn.discordapp.com/attachments/622455779340845056/693794059390681108/diemond2.png);
 	--Theme-Variant: "xhBIROhx";
 	--Chat-Font-Used: /**/;
 	--File-Updated-2020-2-27: /**/;
@@ -117,6 +103,6 @@
 }
 :not([style="opacity: 1; height: 56px; transform: scale(1);"]) > div > .listItemWrapper-3X98Pc > .wrapper-25eVIn:not(.circleButtonMask-2VNJsN){
   -webkit-mask: none;
-  background: url("https://cdn.discordapp.com/attachments/622455779340845056/693482743803150356/dc.gif") 50% 50%/cover!important;
+  background: url("https://cdn.discordapp.com/attachments/622455779340845056/693794059390681108/diemond2.png") 50% 50%/cover!important;
   background-color: var(--Secondary-Main-Colour)!important;
 }
